@@ -15,8 +15,8 @@ configure AWS-provided MCP Servers here, but they are not required for the demo.
 
 Configure the following MCP Servers:
 - [Senso](https://docs.senso.ai/mcp2)
-- [Bright Data] (https://docs.brightdata.com/api-reference/MCP-Server#self-hosted-mcp) 
-- [Minimax] (https://github.com/MiniMax-AI/MiniMax-MCP)
+- [Bright Data](https://docs.brightdata.com/api-reference/MCP-Server#self-hosted-mcp) 
+- [Minimax](https://github.com/MiniMax-AI/MiniMax-MCP)
 
 Senso requires a local installation and a bit more configuration, since it needs to run server.py locally.
 
