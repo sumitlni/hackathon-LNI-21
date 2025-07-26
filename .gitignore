@@ -1,0 +1,8 @@
+.venv
+api-mcp-server
+awsprofile.sh
+presentation.key
+retention_videos
+.env
+.DS_Store
+.idea
