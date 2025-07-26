@@ -129,4 +129,4 @@ The steps are:
 3. Use ```senso___search_content``` to find the employees at risk of being poached. The model being used, Claude Sonnet 3.5, understands what we are trying to do and sets up the prompts automatically.
 4. Finally, use ```mini_max___generate_video``` to generate a heartfelt video saying "Please don't go!". The original plan was to throw $$$ in the air, but that is somehow not allowed by the AI.
 
-
+The retention bot python file is created to templatize the above flow.
